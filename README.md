@@ -3,5 +3,5 @@ Started this repository thinking that I absolutely need to start building someth
 <br>
 [BlueWallet](https://github.com/bluewallet/) is by far my favorite Bitcoin wallet, and Lightning wallet.<br>
 <b><u>Pros:</u></b><br>
-<li>Lightning wallets are completely separate from the Bitcoin wallets.</li><br>
-<li>Plausible Deniability Security</li><br>
+- Lightning wallets are completely separate from the Bitcoin wallets
+- Plausible Deniability Security
